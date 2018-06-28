@@ -18,20 +18,20 @@ The aim of this project is to analyse discrepancies between bus departure times 
 
 Data sample for Latebus - all stations:
 
-‘’’’’’
+```
 ,Bus_route,Current_time,Stop_ID,Bus_ID,Prediction_time,Prediction_minutes,Prediction_seconds
 0,1,08:34:02,4015,5578,08:37:00 PDT,2,177
 1,1,08:34:02,4015,5538,08:44:00 PDT,9,597
-‘’’’’’
+```
 
 
 Data sample for Latebus - all vehicles:
 
-‘’’’’’
+```
 ,Bus_route,Current_time,Bus_ID,Latitude,Longitude,Speed(km/h)
 0,1,15:09:02,5518,37.795105,-122.399597,29
 1,1,15:09:02,5572,37.784649,-122.46785,27
-‘’’’’’
+```
 
 
 Data sample for LateBus - one station (needs to be updated):
